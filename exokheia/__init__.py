@@ -2,6 +2,7 @@
 Abstraction layer for modeling sources of opinion
 
 - Placeholder
+
 """
 
 __author__ = """Brendan Strejcek"""

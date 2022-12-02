@@ -15,18 +15,9 @@ exokheia
 
 
 
-
 Abstraction layer for modeling sources of opinion
 
-
-* Free software: MIT license
-* Documentation: https://exokheia.readthedocs.io.
-
-
-Features
---------
-
-* TODO
+- Placeholder
 
 Credits
 -------
